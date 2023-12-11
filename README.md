@@ -15,4 +15,4 @@ And that's it! All you have to do now is run the executable file and enjoy the g
 ### Note:
 Make sure you have Java Runtime Environment (JRE) installed before running the game.
 
-Feel free to [raise an issue](https://github.com/iRxllz/Snake/issues)
+Feel free to [raise an issue](https://github.com/iRxllz/Snake/issues) if you find bugs!
